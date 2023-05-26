@@ -1,0 +1,5 @@
+"","Model name","Estimate","Effect","Mean Estimate","CI Lower","CI Upper","Category"
+"1","cooccur.glm.site",-3.51398386458435,"(Intercept)",0.0289169556736834,0.0205359172215292,0.0405767307737996,"Co-occur"
+"2","cooccur.glm.site",1.90705818096777,"taxnovelTRUE",0.167015879586355,0.115033441578081,0.236218524698069,"Co-occur"
+"3","cooccur.glm.site",0.342315445382121,"bincountS",0.220181286375376,0.190899238212779,0.252552908580711,"Co-occur"
+"4","cooccur.glm.site",0.097881394282466,"mean_ts_fillS",0.237446769980118,0.196634573961335,0.283737937310405,"Co-occur"
